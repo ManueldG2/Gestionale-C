@@ -1,6 +1,6 @@
 #Gesionale
 
-programma che gira su console per compilarlo uso gcc: > gcc gestionale.c func.c -o gest.exe
+programma che gira su console per compilarlo uso gcc:  `gcc gestionale.c func.c -o gest.exe`
 
 ![schermata](schermata-iniziale.png)
 
